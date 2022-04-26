@@ -7,8 +7,9 @@ It walks you through some features like.
 - Creating a Pydantic model using standard types
 - Validating data
 - Declaring fields with compound types
-- vewing error messages during validation
-Customizing Validations on fields
-Some important helper functions
-Accessing Environment Variables
+- viewing error messages during validation
+- Customizing Validations on fields
+- Some important helper functions
+- Accessing Environment Variables
 
+[Watch Video](https://youtu.be/ynlWxftdaVE)
